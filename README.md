@@ -19,11 +19,11 @@ A Python CLI application simulating core banking operations with secure user aut
 1.	Clone the repository.<br>
 2.	Create and activate a virtual environment:<br>
 3.	python -m venv .venv<br>
-4.	Windows: .\.venv\Scripts\activate<br>
-5.	macOS/Linux: source ./.venv/bin/activate<br>
+4.	Windows:** .\.venv\Scripts\activate**<br>
+5.	macOS/Linux:** source ./.venv/bin/activate**<br>
 	
-6.	Install dependencies:
+6.	**Install dependencies:**
 7.	pip install sqlalchemy bcrypt
 
-8.	Run the application (all code in main.py):
+8.	**Run the application (all code in main.py):**
 9.	python main.py
